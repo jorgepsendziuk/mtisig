@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzispatialitelibrary/res/values-hu/strings.xml -->
+    <eat-comment />
+
+    <string name="alpha">Vonal átlátszatlanság</string>
+    <string name="dash_pattern">Vonalszaggatási minta</string>
+    <string name="decimation">Méretezés</string>
+    <string name="decimation_factor_default">0.000001</string>
+    <string name="fill_alpha">Kitöltés átlátszatlanság</string>
+    <string name="fill_color">Kitöltő szín</string>
+    <string name="max_zoom">Záró nagyítás</string>
+    <string name="min_zoom">Kezdő nagyítás</string>
+    <string name="point_shape_">Pont alakzat</string>
+    <string name="point_size">Pont méret</string>
+    <string name="stroke_color">Vonal színe        </string>
+    <string name="width">Vonal szélessége</string>
+
+</resources>

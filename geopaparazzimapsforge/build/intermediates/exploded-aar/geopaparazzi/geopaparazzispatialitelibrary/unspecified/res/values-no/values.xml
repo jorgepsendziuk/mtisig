@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzispatialitelibrary/res/values-no/strings.xml -->
+    <eat-comment />
+
+    <string name="alpha">Strekuthevning</string>
+    <string name="decimation">Fjern</string>
+    <string name="decimation_factor_default">0,000001</string>
+    <string name="fill_alpha">Fylluthevning</string>
+    <string name="fill_color">Fyllfarge</string>
+    <string name="point_shape_">Figur for punkt </string>
+    <string name="point_size">Punktstørrelse</string>
+    <string name="stroke_color">Strekfarge        </string>
+    <string name="width">Strekbredde</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/geopaparazzi.iml" filepath="$PROJECT_DIR$/geopaparazzi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geopaparazzi.app/geopaparazzi.app.iml" filepath="$PROJECT_DIR$/geopaparazzi.app/geopaparazzi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geopaparazzilibrary/geopaparazzilibrary.iml" filepath="$PROJECT_DIR$/geopaparazzilibrary/geopaparazzilibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geopaparazzimapsforge/geopaparazzimapsforge.iml" filepath="$PROJECT_DIR$/geopaparazzimapsforge/geopaparazzimapsforge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geopaparazzimarkerslib/geopaparazzimarkerslib.iml" filepath="$PROJECT_DIR$/geopaparazzimarkerslib/geopaparazzimarkerslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geopaparazzispatialitelibrary/geopaparazzispatialitelibrary.iml" filepath="$PROJECT_DIR$/geopaparazzispatialitelibrary/geopaparazzispatialitelibrary.iml" />
+    </modules>
+  </component>
+</project>
+

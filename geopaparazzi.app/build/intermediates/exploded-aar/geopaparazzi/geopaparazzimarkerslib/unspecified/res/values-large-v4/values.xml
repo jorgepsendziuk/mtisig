@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzimarkerslib/res/values-large/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="action_bar_height2">56dip</dimen>
+    <dimen name="action_bar_logo_width2">64dip</dimen>
+    <dimen name="action_button_padding_v">10dp</dimen>
+    <dimen name="action_button_width2">52dp</dimen>
+    <dimen name="title_size">32sp</dimen>
+    <dimen name="ui_font_size">20sp</dimen>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzimarkerslib/res/values-large/config.xml -->
+    <eat-comment />
+
+    <string name="orientation">portrait</string>
+
+</resources>

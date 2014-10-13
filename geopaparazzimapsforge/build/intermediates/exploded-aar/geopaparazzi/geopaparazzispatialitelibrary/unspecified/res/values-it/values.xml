@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzispatialitelibrary/res/values-it/strings.xml -->
+    <eat-comment />
+
+    <string name="alpha">Trasparenza del tratto</string>
+    <string name="dash_pattern">Modello trattino</string>
+    <string name="decimation">Decimazione</string>
+    <string name="decimation_factor_default">0.000001</string>
+    <string name="fill_alpha">Trasparenza riempimento</string>
+    <string name="fill_color">Colore riempimento</string>
+    <string name="label_field">campo etichetta</string>
+    <string name="label_properties">Proprietà etichette</string>
+    <string name="label_size">dimensione etichetta</string>
+    <string name="max_zoom">Zoom Massimo</string>
+    <string name="min_zoom">Zoom Minimo</string>
+    <string name="point_shape_">Forma punto</string>
+    <string name="point_size">Dimensione punto</string>
+    <string name="stroke_color">Colore del tratto        </string>
+    <string name="toggle_visibility">Alterna visibilità</string>
+    <string name="width">Spessore del tratto</string>
+
+</resources>

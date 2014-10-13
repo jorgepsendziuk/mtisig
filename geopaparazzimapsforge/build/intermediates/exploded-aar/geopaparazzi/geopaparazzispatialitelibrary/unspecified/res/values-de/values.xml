@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzispatialitelibrary/res/values-de/strings.xml -->
+    <eat-comment />
+
+    <string name="alpha">Linientransparenz</string>
+    <string name="decimation">Dezimierung</string>
+    <string name="decimation_factor_default">0,000001</string>
+    <string name="fill_alpha">Transparenz Fläche </string>
+    <string name="fill_color">Fuellfarbe </string>
+    <string name="point_shape_">Punktform</string>
+    <string name="point_size">Punktgröße</string>
+    <string name="stroke_color">Linienfarbe</string>
+    <string name="width">Linienstaerke </string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzispatialitelibrary/res/values-el/strings.xml -->
+    <eat-comment />
+
+    <string name="alpha">Διαφάνεια γραμμής</string>
+    <string name="dash_pattern">Μοτίβο από παύλες</string>
+    <string name="decimation">Δεκαδικοποίηση</string>
+    <string name="decimation_factor_default">0.000001</string>
+    <string name="fill_alpha">Διαφάνεια επιφάνειας</string>
+    <string name="fill_color">Χρώμα γεμίσματος</string>
+    <string name="label_field">πεδίο ετικέτας</string>
+    <string name="label_properties">Ιδιότητες ετικέτας</string>
+    <string name="label_size">μέγεθος ετικέτας</string>
+    <string name="max_zoom">Μέγ. μεγέθυνση</string>
+    <string name="min_zoom">Ελάχ. μεγέθυνση</string>
+    <string name="point_shape_">Σχήμα σημείου</string>
+    <string name="point_size">Μέγεθος σημείου</string>
+    <string name="stroke_color">Χρώμα γραμμής</string>
+    <string name="toggle_visibility">Εναλλαγή ορατότητας</string>
+    <string name="width">Πλάτος γραμμής</string>
+
+</resources>

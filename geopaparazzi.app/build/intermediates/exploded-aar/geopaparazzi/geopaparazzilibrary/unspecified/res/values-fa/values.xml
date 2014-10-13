@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values-fa/strings.xml -->
+    <eat-comment />
+
+    <string name="cancel">لغو</string>
+    <string name="decimation">ابعاد</string>
+    <string name="enterLocationLabel">وارد کردن موقعيت:</string>
+    <string name="go_to_button">رفتن به</string>
+    <string name="last_position">آخرين موقعيت</string>
+    <string name="latitude">عرض جغرافيايي</string>
+    <string name="longitude">طول جغرافیایی</string>
+    <string name="lookupLocationButton">برو</string>
+    <string name="menu_settings">تنظيمات</string>
+    <string name="message_sent">ارسال پيغام</string>
+    <string name="no">خير</string>
+    <string name="no_data">اطلاعات در دسترس نيست</string>
+    <string name="point_size">اندازه نقطه</string>
+    <string name="save">ذخيره</string>
+    <string name="select_dotdot">انتخاب ...</string>
+    <string name="take_picture">انداختن عکس</string>
+    <string name="up">بالا</string>
+    <string name="yes">بله</string>
+
+</resources>

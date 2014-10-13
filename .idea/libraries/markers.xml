@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="markers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geopaparazzimarkerslib/libs/markers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

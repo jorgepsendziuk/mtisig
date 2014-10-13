@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/arrays.xml -->
+    <eat-comment />
+
+    <string-array name="array_colornames">
+        <item>black</item>
+        <item>blue</item>
+        <item>cyan</item>
+        <item>darkgray</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>lightgray</item>
+        <item>magenta</item>
+        <item>red</item>
+        <item>white</item>
+        <item>yellow</item>
+        <item>purple</item>
+        <item>violet</item>
+        <item>turquoise</item>
+        <item>plum</item>
+        <item>tomato</item>
+        <item>salmon</item>
+    </string-array>
+    <string-array name="array_percentage">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="array_shapes">
+        <item>circle</item>
+        <item>cross</item>
+        <item>square</item>
+        <item>star</item>
+        <item>triangle</item>
+        <item>X</item>
+    </string-array>
+    <string-array name="array_sizes">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="array_widths">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="formbgcolor">#FFFFFF</color>
+    <color name="formcolor">#5d9d76</color>
+    <color name="formcolorselected">#ff0000</color>
+    <color name="gpsblue_fill">#84beff</color>
+    <color name="gpsblue_stroke">#009aff</color>
+    <color name="gpsgreen_fill">#00ff08</color>
+    <color name="gpsgreen_stroke">#278b2a</color>
+    <color name="gpsorange_fill">#ffd293</color>
+    <color name="gpsorange_stroke">#ff9600</color>
+    <color name="gpsred_fill">#ff8484</color>
+    <color name="gpsred_stroke">#ff0000</color>
+    <color name="main_background">#FFFFFF</color>
+    <color name="main_decorations">#5d9d76</color>
+    <color name="main_decorations_dark">#378756</color>
+    <color name="main_disabled">#d7d7d7</color>
+    <color name="main_disabled_border">#919191</color>
+    <color name="main_non_okcolor">#d40000</color>
+    <color name="main_non_okcolor_border">#b10000</color>
+    <color name="main_ok_color">#38ec38</color>
+    <color name="main_ok_color_border">#31b831</color>
+    <color name="main_selection">#FF9933</color>
+    <color name="main_selection_border">#993300</color>
+    <color name="main_text_color">#5d9d76</color>
+    <color name="main_text_color_neutral">#000000</color>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/dimension.xml -->
+    <eat-comment />
+
+    <dimen name="action_bar_height">40dip</dimen>
+    <dimen name="action_bar_logo_height">32dip</dimen>
+    <dimen name="action_bar_logo_width">32dip</dimen>
+    <dimen name="action_bar_padding">2dip</dimen>
+    <dimen name="action_bar_process_height">36dip</dimen>
+    <dimen name="action_bar_process_width">36dip</dimen>
+    <dimen name="action_bar_title_size">14sp</dimen>
+    <dimen name="button_indent">10dp</dimen>
+    <dimen name="dashboard_button_height">100dip</dimen>
+    <dimen name="dashboard_button_padding">6dip</dimen>
+    <dimen name="dashboard_button_width">100dip</dimen>
+    <dimen name="dialog_minheight">180dp</dimen>
+    <dimen name="dialog_minwidth">300dp</dimen>
+    <dimen name="mapview_bottom_space">9dip</dimen>
+    <dimen name="mapview_sides_space">5dip</dimen>
+    <dimen name="panic_bar_height">30dip</dimen>
+    <dimen name="panic_button_text_size">30sp</dimen>
+    <dimen name="statusupdate_button_text_size">15sp</dimen>
+    <dimen name="text_large">16sp</dimen>
+    <dimen name="text_normal">14sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <plurals name="connection_problem_notification">
+        <item quantity="one">Will retry one more time before closing</item>
+        <item quantity="other">Will retry %d more times before closing</item>
+    </plurals>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="activate_nfc">Please activate NFC and press Back to return to the application!</string>
+    <string name="alpha">Stroke alpha</string>
+    <string name="approaching_poi">Approaching a point of interest.</string>
+    <string name="askcoord">Please insert the coordinates to go to</string>
+    <string name="available_only_with_network">This function is available only with an active network connection.</string>
+    <string name="cancel">Cancel</string>
+    <string name="cantcreate_img_folder">Can\'t create the folder into which to save the image.</string>
+    <string name="cantcreate_sdcard">Wasn\'t able to create folder on sdcard (%1$s). Exiting…</string>
+    <string name="cantwrite_gpslog">ERROR: couldn\'t write gps log!</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="connection_problem_notification_title">BlueDevice: connection problem</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="couldnt_find_geocache_results">Could not find any location based on the search. Try to change the search string.</string>
+    <string name="crash_toast_text">The application experienced a fatal error. Crash information will be collected, that are useful to solve the problem. Please send them to the development team when possible.</string>
+    <string name="decimation">Decimation</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="defaultConnectionRetries">5</string>
+    <string name="defaultMockGpsName">bluetooth_gps</string>
+    <string name="defaultTrackFileDirectory">/sdcard/nmea</string>
+    <string name="defaultTrackFilePrefix">btnmeatrack</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="downloading">Downloading…</string>
+    <string name="downloading_mapurl_to_the_device">Downloading selected service to the device.</string>
+    <string name="downloading_project">Downloading project…</string>
+    <string name="downloading_project_to_the_device">Downloading selected project to the device.</string>
+    <string name="downloading_projects_list_from_server">Downloading projects list from server.</string>
+    <string name="downloading_route">Downloading route…</string>
+    <string name="draw_sketch">Draw sketch</string>
+    <string name="enterLocationLabel">Enter Location:</string>
+    <string name="enter_geocode_string">insert place or address</string>
+    <string name="error_disk_full">The disk to which to log to seems to be full. Free some memory and start again.</string>
+    <string name="error_projects_list">An error occurred while retrieving the projects list.</string>
+    <string name="error_while_storing_form_data">An error occurred while storing the form data.</string>
+    <string name="file_upload_completed_properly">File upload completed properly.</string>
+    <string name="fill_alpha">Fill alpha</string>
+    <string name="fill_color">Fill color</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="foreground_gps_provider_started_notification">BlueDevice service started</string>
+    <string name="foreground_nmea_recording_started_notification">BlueDevice NMEA recording service started</string>
+    <string name="foreground_service_started_notification_title">BlueDevice</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="form_field_check">Please check that the field \"%1$s\" in section \"%2$s\" is valid. Not validated constraints: %3$s.</string>
+    <string name="geocodeErrorMessage">Geocoding of location failed. Try re-submitting location.</string>
+    <string name="geocodeErrorTitle">Geocoding Error</string>
+    <string name="go_to_button">go to</string>
+    <string name="gpsloggingalarm">Avoid/stop alarm... </string>
+    <string name="gpsloggingoff">Stopped gps logging.</string>
+    <string name="gpsloggingon">Started gps logging…</string>
+    <string name="gpx_import_checkbox_message">Force import as line?</string>
+    <string name="gpx_import_message">Choose whether the file is to be imported as points or lines.</string>
+    <string name="gpx_import_processing">Importing gpx…</string>
+    <string name="gpx_import_title">Line or Point?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="http_forbidden_msg">The access to the server has been denied. Please check your credentials and connection url.</string>
+    <string name="http_not_found_msg">The requested resource could not be found. Please check your connection url.</string>
+    <string name="http_not_implemented_code_msg">Trapped a return message code (please sent it to the developer): </string>
+    <string name="http_ok_msg">The request was processed successful.</string>
+    <string name="insert_note">insert your note here</string>
+    <string name="last_position">Last position</string>
+    <string name="last_position_unknown">Sorry, could not identify the location properly.</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="lookupLocationButton">go</string>
+    <string name="mapurl_successfully_downloaded">The mapurl has been successfully downloaded and installed. Remember to restart Geopaparazzi to have the service listed.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="message_sent">Message sent</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="msg_bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="msg_bluetooth_gps_unavaible">Cannot connect to bluetooth Device</string>
+    <string name="msg_bluetooth_unsupported">Bluetooth is not supported</string>
+    <string name="msg_gps_provider_already_started">Bluetooth Device... is already on</string>
+    <string name="msg_gps_provider_disabled">Device is disabled</string>
+    <string name="msg_gps_provider_started">Bluetooth Device... started</string>
+    <string name="msg_gps_provider_stopped">Bluetooth Device... stopped</string>
+    <string name="msg_gps_provider_stopped_by_problem">"Cannot start: %s"</string>
+    <string name="msg_mock_location_disabled">Mock locations disabled</string>
+    <string name="msg_nmea_recording_already_started">Device track recording... is already on</string>
+    <string name="msg_nmea_recording_started">Device NMEA recording... started</string>
+    <string name="msg_nmea_recording_stopped">Device NMEA recording... stopped</string>
+    <string name="msg_two_many_connection_problems">Too many connection problems</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="no">no</string>
+    <string name="no_data">No data available</string>
+    <string name="no_valid_destination_selected">No valid destination selected.</string>
+    <string name="notecancel">Note not saved as requested by user.</string>
+    <string name="notenonsaved">An error occurred while saving the Note!</string>
+    <string name="notesaved">Note successfully saved!</string>
+    <string name="okcoord">use coord</string>
+    <string name="openrouteservice">OpenRouteService</string>
+    <string name="point_shape_">Point shape     </string>
+    <string name="point_size">Point size</string>
+    <string name="post_completed_properly">Post completed properly.</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_about_key">about</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_about_summary"></string>
+    <string name="pref_about_title">About</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_bluetooth_device_key">bluetoothDevice</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_bluetooth_device_summary">"Current device: %s"</string>
+    <string name="pref_bluetooth_device_title">Choose Bluetooth Device</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_connection_retries_key">connectionRetries</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_connection_retries_summary">Number of attempts before exiting: %s</string>
+    <string name="pref_connection_retries_title">Connection retry number</string>
+    <string name="pref_enable_gga_summary_off">NMEA GGA sentences are off</string>
+    <string name="pref_enable_gga_summary_on">NMEA GGA sentences are on</string>
+    <string name="pref_enable_gga_title">Enable NMEA GGA</string>
+    <string name="pref_enable_gll_summary_off">NMEA GLL sentences are off</string>
+    <string name="pref_enable_gll_summary_on">NMEA GLL sentences are on</string>
+    <string name="pref_enable_gll_title">Enable NMEA GLL</string>
+    <string name="pref_enable_gsa_summary_off">NMEA GSA sentences are off</string>
+    <string name="pref_enable_gsa_summary_on">NMEA GSA sentences are on</string>
+    <string name="pref_enable_gsa_title">Enable NMEA GSA</string>
+    <string name="pref_enable_gsv_summary_off">NMEA GSV sentences are off</string>
+    <string name="pref_enable_gsv_summary_on">NMEA GSV sentences are on</string>
+    <string name="pref_enable_gsv_title">Enable NMEA GSV</string>
+    <string name="pref_enable_nmea_summary_off">Binary mode is on</string>
+    <string name="pref_enable_nmea_summary_on">NMEA mode is on</string>
+    <string name="pref_enable_nmea_title">NMEA/Binary mode</string>
+    <string name="pref_enable_rmc_summary_off">NMEA RMC sentences are off</string>
+    <string name="pref_enable_rmc_summary_on">NMEA RMC sentences are on</string>
+    <string name="pref_enable_rmc_title">Enable NMEA RMC</string>
+    <string name="pref_enable_sbas_summary_off">SBAS is off</string>
+    <string name="pref_enable_sbas_summary_on">SBAS is on</string>
+    <string name="pref_enable_sbas_title">SBAS (WAAS/EGNOS)</string>
+    <string name="pref_enable_static_navigation_summary_off">Static Navigation disabled</string>
+    <string name="pref_enable_static_navigation_summary_on">Static Navigation enabled</string>
+    <string name="pref_enable_static_navigation_title">Static Navigation</string>
+    <string name="pref_enable_vtg_summary_off">NMEA VTG sentences are off</string>
+    <string name="pref_enable_vtg_summary_on">NMEA VTG sentences are on</string>
+    <string name="pref_enable_vtg_title">Enable NMEA VTG</string>
+    <string name="pref_enable_zda_summary_off">NMEA ZDA sentences are off</string>
+    <string name="pref_enable_zda_summary_on">NMEA ZDA sentences are on</string>
+    <string name="pref_enable_zda_title">Enable NMEA ZDA</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_force_enable_provider_key">forceEnableProvider</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_force_enable_provider_summary_off">Auto-enable the location provider only if it doesn\'t exist yet</string>
+    <string name="pref_force_enable_provider_summary_on">Auto-enable the location provider, even if it has been disabled</string>
+    <string name="pref_force_enable_provider_title">Auto-enable location provider</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_gps_location_provider_key">gpsLocationProviderKey</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_gps_location_provider_summary">Bluetooth Device will replace internal Device</string>
+    <string name="pref_gps_location_provider_title">Location provider options</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_mock_gps_name_key">mockGpsName</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_mock_gps_name_summary">Bluetooth Device name: %s</string>
+    <string name="pref_mock_gps_name_title">Mock location provider name</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_recording_key">trackRecording</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_recording_params_title">Recording parameters</string>
+    <string name="pref_recording_summary_off">Track recording is off</string>
+    <string name="pref_recording_summary_on">Track recording is on</string>
+    <string name="pref_recording_title">Enable/Disable NMEA log</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_replace_std_gps_key">replaceStdtGps</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_replace_std_gps_summary_off">Bluetooth Device will use a new location provider</string>
+    <string name="pref_replace_std_gps_summary_on">Bluetooth Device will replace internal Device</string>
+    <string name="pref_replace_std_gps_title">Replace internal Device</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_sirf_enable_gga_key">enableGGA</string>
+    <string name="pref_sirf_enable_gll_key">enableGLL</string>
+    <string name="pref_sirf_enable_gsa_key">enableGSA</string>
+    <string name="pref_sirf_enable_gsv_key">enableGSV</string>
+    <string name="pref_sirf_enable_nmea_key">enableNMEA</string>
+    <string name="pref_sirf_enable_rmc_key">enableRMC</string>
+    <string name="pref_sirf_enable_sbas_key">enableSBAS</string>
+    <string name="pref_sirf_enable_static_navigation_key">enableStaticNavigation</string>
+    <string name="pref_sirf_enable_vtg_key">enableVTG</string>
+    <string name="pref_sirf_enable_zda_key">enableZDA</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_sirf_gps_category_title">Device operation</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_sirf_gps_key">sirfGps</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_sirf_gps_summary_off">"Use SiRF Options"</string>
+    <string name="pref_sirf_gps_summary_on">"Don't SiRF Options"</string>
+    <string name="pref_sirf_gps_title">SiRF Device</string>
+    <string name="pref_sirf_nmea_category_title">Choice of NMEA sentences</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_start_gps_key">startGps</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_start_gps_params_title">Device Options (SiRF)</string>
+    <string name="pref_start_gps_summary_off">Bluetooth device is off</string>
+    <string name="pref_start_gps_summary_on">Bluetooth device is on</string>
+    <string name="pref_start_gps_title">Start/Stop device</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_trackfile_directory_key">trackFileDirectory</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_trackfile_directory_summary">Select the directory for the track files</string>
+    <string name="pref_trackfile_directory_title">Trackfiles directory</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="pref_trackfile_prefix_key">trackFilePrefix</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="pref_trackfile_prefix_summary">Select the prefix for the track files</string>
+    <string name="pref_trackfile_prefix_title">Trackfiles prefix</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="project_successfully_downloaded">The project has been successfully downloaded.</string>
+    <string name="prompt_gpsenable">Your gps is disabled! Would you like to enable it?</string>
+    <string name="proximity_alert">Proximity Alert!</string>
+    <string name="read_nfc_uid">Read tag id</string>
+    <string name="redo">redo</string>
+    <string name="route_extraction_error">An error occurred during the route extraction.</string>
+    <string name="route_to">Route to: </string>
+    <string name="route_to_button">route to</string>
+    <string name="save">Save</string>
+    <string name="sdcard_notexist">Sdcard folder doesn\'t exist or is not writable (is it possible it is mounted on a pc?). Exiting…</string>
+    <string name="select_dotdot">Select…</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/bluetooth.xml -->
+    <eat-comment />
+
+    <string name="service_closed_because_connection_problem_notification">"Reason: %s"</string>
+    <string name="service_closed_because_connection_problem_notification_title">BlueDevice stopped</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="share_note_with">Share note with...</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="sirf_bin_dgps_ext_on">85020000000000</string>
+    <string name="sirf_bin_dgps_sbas_on">85010000000000</string>
+    <string name="sirf_bin_static_nav_off">8F00</string>
+    <string name="sirf_bin_static_nav_on">8F01</string>
+    <string name="sirf_bin_to_nmea">8702</string>
+    <string name="sirf_bin_to_nmea_38400">810201010001050105010001000100010001000100019600</string>
+    <string name="sirf_bin_to_nmea_38400_alt" formatted="false">8102%02X01%02X01%02X01%02X01%02X01%02X01%02X01%02X01%02X0100019600</string>
+    <string name="sirf_nmea_gga_off">PSRF103,00,00,00,01</string>
+    <string name="sirf_nmea_gga_on">PSRF103,00,00,01,01</string>
+    <string name="sirf_nmea_gll_off">PSRF103,01,00,00,01</string>
+    <string name="sirf_nmea_gll_on">PSRF103,01,00,01,01</string>
+    <string name="sirf_nmea_gsa_off">PSRF103,02,00,00,01</string>
+    <string name="sirf_nmea_gsa_on">PSRF103,02,00,05,01</string>
+    <string name="sirf_nmea_gsv_off">PSRF103,03,00,00,01</string>
+    <string name="sirf_nmea_gsv_on">PSRF103,03,00,05,01</string>
+    <string name="sirf_nmea_rmc_off">PSRF103,04,00,00,01</string>
+    <string name="sirf_nmea_rmc_on">PSRF103,04,00,01,01</string>
+    <string name="sirf_nmea_sbas_off">PSRF151,00</string>
+    <string name="sirf_nmea_sbas_on">PSRF151,01</string>
+    <string name="sirf_nmea_to_binary">PSRF100,0,38400,8,1,0</string>
+    <string name="sirf_nmea_vtg_off">PSRF103,05,00,00,01</string>
+    <string name="sirf_nmea_vtg_on">PSRF103,05,00,01,01</string>
+    <string name="sirf_nmea_zda_off">PSRF103,08,00,00,01</string>
+    <string name="sirf_nmea_zda_on">PSRF103,08,00,01,01</string>
+    <string name="sirf_software_version">8400</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="stroke_color">Stroke color        </string>
+    <string name="take_picture">Take picture</string>
+    <string name="the_file_exists_wont_overwrite">The file exists. Won\'t overwrite: </string>
+    <string name="title_activity_nfc_id_reader">NfcIdReaderActivity</string>
+    <string name="type_to_filter">type to filter</string>
+    <string name="unable_to_read_tag_id">Unable to read tag id</string>
+    <string name="undo">undo</string>
+    <string name="up">up</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/constants.xml -->
+    <eat-comment />
+
+    <string name="versionName">1.2.3</string>
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="view_routing_url_in_browser">Do you want to open the used routing URL in a browser?</string>
+    <string name="webprojects_list_title">Remote Projects List</string>
+    <string name="width">Stroke width</string>
+    <string name="wrongLatitude">Latitude has to be a number between -90 and 90.</string>
+    <string name="wrongLongitude">Longitude has to be a number between -180 and 180.</string>
+    <string name="yes">yes</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/IntegracaoMT/Documents/geopaparazzi/geopaparazzilibrary/res/values-sr/strings.xml -->
+    <eat-comment />
+
+    <string name="askcoord">Unesite Vašu belešku</string>
+    <string name="cancel">Otkazati</string>
+    <string name="draw_sketch">Napravi skicu</string>
+    <string name="enterLocationLabel">Uneti Lokaciju:</string>
+    <string name="enter_geocode_string">Unesite mesto ili adresu</string>
+    <string name="gpx_import_title">Linija ili tačka?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="insert_note">Unesite Vašu belešku</string>
+    <string name="last_position">Poslednja pozicija</string>
+    <string name="last_position_unknown">Na žalost, lokacija nije ispravno identifikovana</string>
+    <string name="latitude">Geografska širina</string>
+    <string name="longitude">Geografska dužina</string>
+    <string name="lookupLocationButton">Nije izabrana ispravna destinacija</string>
+    <string name="menu_settings">Opcije</string>
+    <string name="message_sent">Poruka poslata</string>
+    <string name="no">Ne</string>
+    <string name="no_valid_destination_selected">Nije izabrano ispravno odredište </string>
+    <string name="notesaved">Beleška je uspešno sačuvana!</string>
+    <string name="redo">Vratiti na stanje pre poništavanja</string>
+    <string name="save">Sačuvati</string>
+    <string name="select_dotdot">Izaberi...</string>
+    <string name="take_picture">Slikati</string>
+    <string name="undo">Poništiti</string>
+    <string name="wrongLatitude">Geografska širina mora biti između -90 i 90 stepeni</string>
+    <string name="wrongLongitude">Geografska dužina mora biti između -180 i 180 stepeni</string>
+    <string name="yes">Da</string>
+
+</resources>
